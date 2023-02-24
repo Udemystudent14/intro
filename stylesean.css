@@ -1,0 +1,265 @@
+﻿h1{ 
+    margin:0px;
+    font-family:cursive;
+    color:#66bfbf;
+    font-weight:900;
+    line-height:1.5;
+}
+h2{
+    color:#66bfbf;
+    font-weight:normal;
+    padding-bottom:10px;
+    color:#24ffda;
+
+}
+h3{
+    color:#11999E;
+    line-height:1;
+    
+}
+p{
+    line-height:2;
+}
+.h1title{
+    line-heignt:1;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    height:5px;
+    border-width:6px;
+    color:#66bfbf;
+    
+    width:5vw;
+
+}
+a{
+   
+}
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Gill Sans MT'; /*'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif*/
+    /*color:#ffe46b;*/
+    color:whitesmoke;
+}
+h3{font-family:Calibri;
+   font-size="10px";
+   color:#ffe46b;
+
+}
+
+.titlecolor{
+    color:#66bfbf;
+    line-height:1;
+}
+.line1{line-height:1;}
+.line15{line-height:1.5;}
+
+
+
+div{
+    background-color:#E4f9f5;
+
+}
+.pagescontainer{
+    background-color:black;
+    position:relative;
+    align-content:center;
+    display:inherit;
+    margin:unset;
+}
+.top-container{
+    background-color:#E4f9f5;
+    padding-top:0px;
+    position:relative;
+    
+    
+
+
+}
+.top {
+    background-color: #E4f9f5;
+    border: 0px;
+    padding-top:50px;
+    
+    display: block;
+    position: relative;
+    padding:10px;
+    
+    
+
+}
+.mt{
+   position:relative;
+    display: block;
+    height:120px;
+    background-color:#E4f9f5;
+    
+    
+     
+    
+
+}
+.topcloud{
+    position:relative;
+    left:100px;
+    
+    opacity:30;
+    display: inline-block;
+    
+    padding-top:10px;
+
+
+}
+.cloudscale{
+    width:200px;
+}
+.botcloud{
+    position:absolute;
+
+    left:100px;
+    top:160px;
+    opacity:50;
+    width:50px;
+    
+    display: inline-block;
+    background-color:none;
+    
+
+}
+
+.midportrait{
+    position:relative;
+    background-color:#2d94ba;
+    padding-top:100px;
+    padding-bottom:10px;
+    
+
+}
+.intro{
+    width:30%;
+    margin:auto; /*to get it to center*/
+}
+.staff{
+    
+    width:200px;
+}
+
+.skills1{
+    position:relative;
+    background-color:#2d94ba;
+    padding-top:10px;
+    padding-bottom:10px;
+ 
+    
+
+
+}
+
+.skillrow{
+    width:50%;
+    margin:100px,auto,100px,auto;
+    text-align:left;
+    line-height:2;
+    position:relative;
+    display:inline;
+    background-color:#2d94ba;
+    display:inline-block;
+
+
+
+}
+
+.flower{
+    width:30%;
+    float:left;
+    margin-right:30px;
+    padding-top:30px;
+    padding-bottom:50px;
+    
+}
+
+
+.goose{
+    width:30%;
+    float:right;
+    padding-left:0px;
+    padding-top:30px;
+    
+    
+    
+
+
+
+}
+/*<p class="underright"> this is to place descr
+    under rather than rapped>
+*/
+.under{
+
+    clear:left;
+}
+.underright{
+    clear:right;
+}
+/*save for thei */
+.contact{
+    position:relative;
+    background-color:#2d94ba;
+    padding-bottom:40px;
+    width:100%;
+    display:inline-block;
+    padding-top:0px;
+
+}
+
+/*from mozilla developers network*/
+.btn{
+    border:0;
+    line-height:2.5;
+    padding:10px 20px;
+    font-size:1rem;
+    text-align:center;
+    color:#ffe46b;
+    text-shadow:1px 1px 1px #000;
+    border-radius:10px;
+    background-color:#2d94ba;
+    background-image:linear-gradient(to top left, rgba(0,0,0,0.2),rgba(0,0,0,0.2)30%,rgba(0,0,0,0.2)30%);
+    box-shadow:inset 2px 2px 3px rgba(255,255,255,0.6),inset -2px -2px 3px rgba(0,0,0,0.6);
+    text-decoration:none;
+
+}
+.btn:hover{
+ 
+    background-color:rgba(255,255,0,1);
+    text-decoration:underline;
+    color:white;
+    
+}
+.btn:active{
+    box-shadow:inset -2px -2px 3px rgb(255,255,255,0.6),inset 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+/*footer styles*/
+.footer {
+    position:relative;
+    background-color: black;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.footerlink{
+    color:cornflowerblue;
+    text-decoration-line:none;
+    
+
+}
+
+.footerlink:hover{
+    color:white;
+}
+.msg{
+    color:white;
+         
+}
+
